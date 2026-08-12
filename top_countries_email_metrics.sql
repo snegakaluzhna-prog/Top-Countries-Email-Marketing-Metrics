@@ -12,6 +12,7 @@
 -- Calculate the number of unique accounts by:
 -- date, country, send interval,
 -- verification status, and unsubscribe status.
+
 -- =====================================================
 
 -- =====================================================
